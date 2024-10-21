@@ -50,3 +50,40 @@ Kemudian lihat hasilnya.
 c. Membuat Hero Panel.
 
 Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+![gambar](https://github.com/user-attachments/assets/7c7df1e8-d94b-4763-888b-b43d19492b1c)
+![gambar](https://github.com/user-attachments/assets/19d45be9-11b7-4dfa-9f87-34b3b987f7b4)
+Kemudian lihat hasilnya.
+![gambar](https://github.com/user-attachments/assets/fd92a453-051a-4d27-9166-4f80530400eb)
+d. Mengatur Layout Main dan Sidebar
+
+Selanjutnya mengatur main content dan sidebar, tambahkan CSS float.
+![gambar](https://github.com/user-attachments/assets/80713dcf-2226-4d1a-a9ce-03674d221995)
+e. Membuat Sidebar Widget
+
+Kemudian selanjutnya menambahkan element lain dalam sidebar.
+![gambar](https://github.com/user-attachments/assets/fe1c4f45-856c-4af1-8529-bb10b03f14ed)
+Kemudian tambahkan CSS.
+![gambar](https://github.com/user-attachments/assets/3c9b1e7e-cf79-4aff-b42b-ab965de72c78)
+Kemudian lihat hasilnya.
+![gambar](https://github.com/user-attachments/assets/be12c4d4-056f-4cfe-8dca-082cbd5840da)
+f. Mengatur Footer
+
+Selanjutnya mengatur tampilan footer. Tambahkan CSS untuk footer.
+![gambar](https://github.com/user-attachments/assets/84f20508-4a91-4220-a206-5355a4646e8e)
+Kemudian lihat hasilnya.
+![gambar](https://github.com/user-attachments/assets/c7e3e176-5c4a-4d40-99ec-60c7baa89e62)
+g. Menambahkan Elemen lainnya pada Main Content
+![gambar](https://github.com/user-attachments/assets/f0b58dbd-ac06-4508-900a-501155de3d38)
+Kemudian tambahkan CSS.
+![gambar](https://github.com/user-attachments/assets/e5045026-b72a-438b-90ac-c1cced014bc5)
+![gambar](https://github.com/user-attachments/assets/1d14409e-415d-4801-9103-e596b4c598db)
+Kemudian liat hasilnya.
+![gambar](https://github.com/user-attachments/assets/6b08da15-cca0-4d49-8764-8c492d26ed66)
+h. Menambahkan Content Artikel
+
+Selanjutnya membuat content artikel. Tambahkan HTML berikut pada main content.
+![gambar](https://github.com/user-attachments/assets/289e2cd2-cfc1-41c3-b4d9-ffe8b0896c8f)
+Kemudian tambahkan CSS.
+![gambar](https://github.com/user-attachments/assets/894b3297-fe24-4a3a-bb69-80aebd81c062)
+Kemudian lihat hasilnya.
+![gambar](https://github.com/user-attachments/assets/150900bd-c59b-47dc-945a-4913840f1459)
